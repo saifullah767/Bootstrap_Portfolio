@@ -9460,3 +9460,8 @@ fieldset:disabled .btn {
   border: 1px solid #6070ff;
   border-radius: 5px;
 }
+.contact{
+    background-image: url(../../images/icons/contact.png);
+    background-size: cover;
+    background-color:#364dcf;
+}
