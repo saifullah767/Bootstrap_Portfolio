@@ -6481,6 +6481,9 @@ fieldset:disabled .btn {
 .mt-5 {
   margin-top: 3rem !important;
 }
+.mt-6{
+    margin-top: 6rem !important ;
+}
 .mt-auto {
   margin-top: auto !important;
 }
@@ -6543,6 +6546,9 @@ fieldset:disabled .btn {
 }
 .ms-5 {
   margin-left: 3rem !important;
+}
+.ms-6{
+    margin-left: 10rem !important;
 }
 .ms-auto {
   margin-left: auto !important;
@@ -9444,4 +9450,14 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
-
+.bg-purple{
+    color: #6070FF;
+    background-color: #EBEBFF;
+}
+.btn-portfolio{
+    background-color: white;
+    color:  #6070FF;
+    border: 1px solid #6070FF;
+    border-radius: 5px;
+    
+}
